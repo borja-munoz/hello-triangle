@@ -1,14 +1,16 @@
-# graphics-apis
+# hello-triangle
 
-This repository contains Hello World examples for different computer graphics APIs mainly used for real-time rendering:
+When learning a new programming language, usually the first example is usually a variation of a program that outputs the text "Hello, World" to the console.
+
+When learning new computer graphics APIs, it is common to do something similar but with a program that renders a triangle, with vertices of red, green and blue color that are interpolated.
+
+This repository contains examples for different computer graphics APIs with fixed and programmable pipelines:
 
 - OpenGL
 - DirectX
 - Vulkan
 - Metal
 - WebGPU
-
-There are examples using the fixed-function pipeline available in older versions of the OpenGL and DirectX APIs and examples using the programmable pipeline with shaders available in the modern APIs.
 
 The code is based on different resources, including:
 
