@@ -1,7 +1,8 @@
 repo_name: borja-munoz/hello-triangle
 report_id: 6c7b59270b7a6629a2ac9e7a3276f477
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T11:24:57+00:00'
+timestamp: '2024-01-05T08:54:37+00:00'
 requested_by: borja-munoz
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/borja-munoz/hello-triangle
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/borja-munoz/hello-triangle
   detection_source: Repo Metadata
 - name: GLSL
   description: A high-level C-style language
@@ -34,6 +37,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6548/default_a66025fbe8f221c489bdaac3a99d84e5f138cbbd.png
+  detection_source_url: https://github.com/borja-munoz/hello-triangle
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -44,6 +48,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/borja-munoz/hello-triangle
   detection_source: Repo Metadata
 - name: Objective-C
   description: The primary programming language you use when writing software for
@@ -54,6 +59,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/borja-munoz/hello-triangle
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -63,6 +69,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/borja-munoz/hello-triangle
   detection_source: Repo Metadata
 - name: Metal
   description: https://t.co/jw2s2L0RLt
@@ -70,4 +77,5 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10690/iEqpsbUA_normal.png
+  detection_source_url: https://github.com/borja-munoz/hello-triangle
   detection_source: Repo Metadata
